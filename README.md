@@ -10,7 +10,17 @@ Incorporating human-perceptual intelligence into model training has shown to inc
 
 ## Installation and Usage
 
-...
+### How to run & requirements
+- Build the conda environment using `grains.yml`
+- Train or test CNNs (DenseNet, ResNet, and Inception) using `./training_code/train.py` and `./testing_code/test.py`
+
+### Model weights
+
+#### IJCB 2024:
+Model weights and salience granularity for all architectures and biometric tasks can be downloaded via this [Box folder]()
+
+The best performing iris-PAD model (reported in the IJCB 2024 paper) was Inception AOI, which achieved AUC=0.975 on the [[LivDet-2020 test set]](https://arxiv.org/abs/2009.00749). That specific model's weights are stored in `./Iris-PAD/inception/AOI/inception_segmentation_mse_20_0.50_2/Logs/final_model.pth` (after unzipping "Model weights.zip" located in the Box folder linked above).
+
 
 ## Citations
 
