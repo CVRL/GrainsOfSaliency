@@ -2,7 +2,7 @@
 
 Official repository for the paper: Colton R. Crum, Samuel Webster, Adam Czajka, "Grains of Saliency: Optimizing Saliency-based Training of Biometric Attack Detection Models," IEEE/IAPR International Joint Conference on Biometrics (IJCB), September 15-18, 2024, Buffalo, NY, USA 
 
-Paper: [IEEEXplore] | [ArXiv pre-print](https://arxiv.org/abs/2405.00650)
+Paper: IEEEXplore | [ArXiv pre-print](https://arxiv.org/abs/2405.00650)
 
 ## Abstract
 
