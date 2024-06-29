@@ -56,6 +56,4 @@ This GitHub repository:
 
 ## License
 
-...
-
-...
+(to be added)
