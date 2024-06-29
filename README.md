@@ -20,7 +20,7 @@ Model weights and salience granularity for all architectures and biometric tasks
 
 The best performing iris PAD model (reported in the IJCB 2024 paper) was Inception AOI, which achieved AUC=0.975 on the [[LivDet-2020 test set]](https://arxiv.org/abs/2009.00749). That specific model's weights are stored in:
 
-    ```./Iris-PAD/inception/AOI/inception_segmentation_mse_20_0.50_2/Logs/final_model.pth```
+```    ./Iris-PAD/inception/AOI/inception_segmentation_mse_20_0.50_2/Logs/final_model.pth```
 
 (after unzipping "Model weights.zip" located in the Box folder linked above).
 
