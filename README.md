@@ -28,7 +28,7 @@ The best performing iris PAD model (reported in the IJCB 2024 paper) was Incepti
 
 ## Citations
 
-IJCB 2024 paper:
+If you find this work useful in your research, please cite the following paper:
 
 ```
 @InProceedings{Crum_IJCB_2024,
@@ -44,7 +44,6 @@ IJCB 2024 paper:
 ```
 
 This GitHub repository:
-
 ```
 @Misc{ND_GrainsOfSaliency_GitHub,
   howpublished = {\url{https://github.com/CVRL/GrainsOfSaliency/}},
@@ -54,6 +53,6 @@ This GitHub repository:
 }
 ```
 
-## License
-
-(to be added)
+## Acknowledgment
+This material is based upon work partially supported by the National Science Foundation under Grant No. 2237880. Any opinions, findings, and conclusions
+or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
